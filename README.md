@@ -1,8 +1,5 @@
-
 ### Hi there 👋, I'm Aritra Roy
 #### Web Developer
-![Web Developer](https://arturssmirnovs.gihttps://scontent.fccu5-1.fna.fbcdn.net/v/t1.6435-9/118766227_1004824863298844_2872289926774748991_n.jpg?stp=c52.0.206.206a_dst-jpg_p206x206&_nc_cat=102&ccb=1-5&_nc_sid=da31f3&_nc_ohc=NHY6qLDrYEoAX_7czfa&_nc_ht=scontent.fccu5-1.fna&oh=00_AT-mZf_whDQhynWedixUchETSHaf49Vfbia_DY1FqJZpdw&oe=627998EFthub.io/github-profile-readme-generator/images/banner.png)
-
 I am studing in college now and i am learning web development
 
 Skills:   HTML / CSS/ JS / REACT
