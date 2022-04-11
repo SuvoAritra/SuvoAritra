@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Aritra Roy
 #### Web Developer
+![Web Developer](https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg)
+
 I am studing in college now and i am learning web development
 
 Skills:   HTML / CSS/ JS / REACT
